@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Task Manager
+Name[ru]=Диспетчер задач
+Name[uk]=Диспетчер завдань
+Comment=See running programs and end the ones that do not respond
+Comment[ru]=Запущенные программы, нагрузка на процессор и память
+Exec=colibry-tasks
+Icon=colibry-tasks
+Terminal=false
+Categories=System;Monitor;
+Keywords=processes;tasks;cpu;memory;kill;monitor;
+StartupNotify=true
